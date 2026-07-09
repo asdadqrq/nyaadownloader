@@ -1,0 +1,6 @@
+nyaapy==0.6.1
+lxml>=4.9.0
+winotify>=1.1.0
+requests>=2.28.1
+PyQt5==5.15.7
+parsett==1.6.15

@@ -1,0 +1,17 @@
+# Auto-generated folders
+.git/
+.vscode/
+__pycache__/
+lib/__pycache__/
+
+# Generated folders/files by the program
+DownloadedTorrents/
+
+# Generated folders from PyInstaller
+build/
+dist/
+main.spec
+
+# PyInstaller .bat script that allows me to create the .exe from the release
+binary_gen.bat
+
